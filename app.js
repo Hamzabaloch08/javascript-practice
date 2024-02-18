@@ -1,4 +1,4 @@
-//INTRO
+//INTRODUCTION
 
 // () <- (this is a function) --> alert is a Built-in Function that is throw a pop up in your website
 // 2 types of function in javascript
