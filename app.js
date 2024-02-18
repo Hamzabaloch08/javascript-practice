@@ -17,4 +17,15 @@
 
 // chapter variable for string
 
+var firstName = "Hamza"; //STRING VARIABLE // camel case  standard for writing variable name example: firstName, lastName like down up.
+var lastName = "Baloch"; //STRING VARIABLE
+alert(firstName + " " + lastName);
+
+document.write("<h1>Hamza Baloch</h1>"); // it will print Hello World on the webpage (document.write)is BUILT-IN Function used to write any HTML code or display any message inside <body></body>.
+
+//second method
+document.write("<h1>" + "Hamza Baloch" + "</h1>");
+
+// third method
+document.write(firstName + " " + lastName + "</br>"); // VARIABLE
 
