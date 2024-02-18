@@ -1,5 +1,7 @@
                                                          //INTRODUCTION to JAVASCRIPT
 
+                                                                 //first day of JAVASCRIPT
+
 // () <- (this is a function) --> alert is a Built-in Function that is throw a pop up in your website
 // 2 types of function in javascript
 
@@ -59,3 +61,6 @@ var num9 = "a"; //intiger in string
 var num10 = 1;
 document.write(num9 - num10);
 // output is (NaN) means ( Not a Number )
+
+
+                                                               // second day of JAVASCRIPT 
