@@ -39,3 +39,17 @@ var num3 = 5; //INTEGER VARIABLE
 var num4 = 10; //INTEGER VARIABLE
 document.write(num3 - num4 + "</br>"); //when integer and integer match then specialty in - it do to it subtract.
 
+var num5 = "5"; //string VARIABLE
+var num6 = 1; //INTEGER VARIABLE
+document.write(num5 + num6 + "</br>");
+// output is 51  because when string and Integer meet the result is a String so it convert that Integer into String.
+
+var num7 = "5"; //intiger in string
+var num8 = 1;
+document.write(num5 - num6 + "</br>");
+// output is 4   //intiger in string then it do minus
+
+var num9 = "a"; //intiger in string
+var num10 = 1;
+document.write(num9 - num10);
+// output is NaN (NaN means Not a Number)
