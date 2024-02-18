@@ -29,3 +29,13 @@ document.write("<h1>" + "Hamza Baloch" + "</h1>");
 // third method
 document.write(firstName + " " + lastName + "</br>"); // VARIABLE
 
+// chapter variable for number
+
+var num1 = 5; //INTEGER VARIABLE
+var num2 = 10; //INTEGER VARIABLE
+document.write(num1 + num2 + "</br>"); //when integer and integer match then specialty in + it do to it add.
+
+var num3 = 5; //INTEGER VARIABLE
+var num4 = 10; //INTEGER VARIABLE
+document.write(num3 - num4 + "</br>"); //when integer and integer match then specialty in - it do to it subtract.
+
