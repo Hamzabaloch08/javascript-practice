@@ -37,7 +37,7 @@ document.write("<h1>" + "Hamza Baloch" + "</h1>");
 document.write(firstName + " " + lastName + "</br>"); // VARIABLE
 
 
-                                                         // chapter variable for number
+                                                      // chapter variable for number
 
 var num1 = 5; //INTEGER VARIABLE
 var num2 = 10; //INTEGER VARIABLE
