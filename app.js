@@ -1,10 +1,9 @@
 //INTRODUCTION to JAVASCRIPT
 
-
 // () <- (this is a function) --> alert is a Built-in Function that is throw a pop up in your website
-// 2 types of function in javascript
+// 2 types of function in JAVASCRIPT
 
-// (1st function is Built-in Function) -->  which are built in java script
+// (1st function is Built-in Function) -->  which are built in JAVASCRIPT
 
 // (2nd function is Manual / User define Function) --> created by user
 
@@ -12,7 +11,7 @@
 // 3 types of DATA TYPE
 
 // 1st is STRING:
-// ("" --> '') something come inside single quotation or double quotation is called string  and what is string ? string is data type of java script.
+// ("" --> '') something come inside single quotation or double quotation is called string  and what is string ? string is data type of JAVASCRIPT.
 
 // 2nd is INTEGER:
 // example: 1, 2, 3, 4, 5, 123456 this is INTEGER
@@ -21,7 +20,7 @@
 // example: 1.1, 2.3, 6.4 whenever we talk about point is called FLOAT.
 
 
-                                                        // chapter variable for string
+                                                        // chapter variable for STRING
 
 var firstName = "Hamza"; //STRING VARIABLE // camel case  standard for writing variable name example: firstName, lastName like down up.
 var lastName = "Baloch"; //STRING VARIABLE
@@ -36,7 +35,7 @@ document.write("<h1>" + "Hamza Baloch" + "</h1>");
 document.write(firstName + " " + lastName + "</br>"); // VARIABLE
 
 
-                                                      // chapter variable for number
+                                                      // chapter VARIABLE OF NUMBER
 var num1 = 5;   //INTEGER VARIABLE
 var num2 = 10; //INTEGER VARIABLE
 document.write(num1 + num2 + "</br>"); //when integer and integer match then specialty in + it do to it add.
