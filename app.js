@@ -23,7 +23,7 @@
 
 
                                                         // chapter variable for string
-
+                                                        
 var firstName = "Hamza"; //STRING VARIABLE // camel case  standard for writing variable name example: firstName, lastName like down up.
 var lastName = "Baloch"; //STRING VARIABLE
 alert(firstName + " " + lastName);
@@ -38,17 +38,16 @@ document.write(firstName + " " + lastName + "</br>"); // VARIABLE
 
 
                                                       // chapter variable for number
-
-var num1 = 5; //INTEGER VARIABLE
+var num1 = 5;   //INTEGER VARIABLE
 var num2 = 10; //INTEGER VARIABLE
 document.write(num1 + num2 + "</br>"); //when integer and integer match then specialty in + it do to it add.
 
-var num3 = 5; //INTEGER VARIABLE
+var num3 = 5;   //INTEGER VARIABLE
 var num4 = 10; //INTEGER VARIABLE
 document.write(num3 - num4 + "</br>"); //when integer and integer match then specialty in - it do to it subtract.
 
 var num5 = "5"; //string VARIABLE
-var num6 = 1; //INTEGER VARIABLE
+var num6 = 1;  //INTEGER VARIABLE
 document.write(num5 + num6 + "</br>");
 // output is 51  because when string and Integer meet the result is a String so it convert that Integer into String.
 
@@ -61,6 +60,5 @@ var num9 = "a"; //intiger in string
 var num10 = 1;
 document.write(num9 - num10);
 // output is (NaN) means ( Not a Number )
-
 
                                                      // second day of JAVASCRIPT 
