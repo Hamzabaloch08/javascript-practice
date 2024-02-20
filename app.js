@@ -1,6 +1,5 @@
 //INTRODUCTION to JAVASCRIPT
 
-                                                         //first day of JAVASCRIPT
 
 // () <- (this is a function) --> alert is a Built-in Function that is throw a pop up in your website
 // 2 types of function in javascript
@@ -23,7 +22,7 @@
 
 
                                                         // chapter variable for string
-                                                        
+
 var firstName = "Hamza"; //STRING VARIABLE // camel case  standard for writing variable name example: firstName, lastName like down up.
 var lastName = "Baloch"; //STRING VARIABLE
 alert(firstName + " " + lastName);
@@ -58,7 +57,5 @@ document.write(num5 - num6 + "</br>");
 
 var num9 = "a"; //intiger in string
 var num10 = 1;
-document.write(num9 - num10);
-// output is (NaN) means ( Not a Number )
-
-                                                     // second day of JAVASCRIPT 
+document.write(num9 - num10 + "</br>") ;//output NaN because a-1 is not possible so its give Nan as result.
+//(NaN) means ( Not a Number )
