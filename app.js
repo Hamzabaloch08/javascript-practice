@@ -1,4 +1,4 @@
-                                                         //INTRODUCTION to JAVASCRIPT
+//INTRODUCTION to JAVASCRIPT
 
                                                          //first day of JAVASCRIPT
 
