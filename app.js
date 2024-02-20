@@ -63,4 +63,4 @@ document.write(num9 - num10);
 // output is (NaN) means ( Not a Number )
 
 
-                                                               // second day of JAVASCRIPT 
+                                                     // second day of JAVASCRIPT 
