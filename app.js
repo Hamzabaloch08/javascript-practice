@@ -52,7 +52,7 @@ document.write(num5 + num6 + "</br>");
 
 var num7 = "5"; //intiger in string
 var num8 = 1;
-document.write(num5 - num6 + "</br>");
+document.write(num7 - num8 + "</br>");
 // output is 4   //intiger in string then it do minus
 
 var num9 = "a"; //intiger in string
