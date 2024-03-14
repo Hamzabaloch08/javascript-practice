@@ -42,9 +42,13 @@
 // ||  or operator one of them should be true to show it true 
 
 
-
-
-
-
-
-
+// = assigning operater 
+// == value match
+// === checked value with data type
+// != not equal 
+// && left or right  should be true for it to be true
+// ||  either one is true it will show true 
+// > greater than
+// < less than
+// >= greater than equal to
+// <= less than equal to
