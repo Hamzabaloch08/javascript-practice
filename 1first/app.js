@@ -60,5 +60,4 @@ document.write(num9 - num10 + "</br>"); //output NaN because a-1 is not possible
 var firstName = prompt("Enter the FirstName");
 var lastName = prompt("Enter the Lastname");
 document.write(
-  "<h1>" + "Your Fullname is " + "</h1>" + firstName + " " + lastName
-);
+  "<h1>" + "Your Fullname is " + firstName + " " + lastName + "</h1>" );
