@@ -9,6 +9,6 @@ for (var i = 0; i < cityNames.length; i++) {
         break
     }
 }
-if(){
+if(match == false){
    alert("City not found") 
 }
