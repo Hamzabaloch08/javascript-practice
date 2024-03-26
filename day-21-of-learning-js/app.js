@@ -5,6 +5,10 @@ var match = false;
 for (var i = 0; i < cityNames.length; i++) {
     if(userinput == cityNames[i]){
         match = true
-        alert
+        alert("city found")
+        break
     }
+}
+if(){
+   alert("City not found") 
 }
